@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc0228988c498144c9ec679d14b2d570, type: 3}
+  m_Name: Collector
+  m_EditorClassIdentifier: Assembly-CSharp::RoleCards
+  RoleName: Collector
+  RoleAbility: Earn $4000 when complete an Item set
+  RoleImageFront: {fileID: 6448739373958382780, guid: fe53cd3693a2d694baee37cafd197e29, type: 3}
+  RoleImageBack: {fileID: 0}
